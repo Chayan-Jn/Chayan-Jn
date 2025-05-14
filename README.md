@@ -7,6 +7,7 @@
     <em>Just a developer enjoying the process of building cool stuff.</em>
   </p>
 </p>
+
 ---
 
 ###  Tech I Use
@@ -40,14 +41,18 @@ Feel free to explore my latest projects and more on my website:
   </a>
 </p>
 
+---
+
 ### Find Me 
 <p align="center">
-  <a href="mailto:chayanj39@gmail.com">
+  <a href="mailto:chayanj39@gmail.com" style="text-decoration: none; border: none; outline: none;">
     <img src="https://skillicons.dev/icons?i=gmail&perline=5" alt="Email" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp; 
   <a href="https://linkedin.com/in/jainchayan">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=5" alt="LinkedIn" width="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp; 
   <a href="https://github.com/Chayan-jn">
     <img src="https://skillicons.dev/icons?i=github&perline=5" alt="GitHub" width="50"/>
   </a>
